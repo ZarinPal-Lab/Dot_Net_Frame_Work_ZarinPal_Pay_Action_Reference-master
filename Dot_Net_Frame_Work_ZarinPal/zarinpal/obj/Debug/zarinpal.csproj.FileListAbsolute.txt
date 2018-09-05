@@ -1,0 +1,6 @@
+C:\Users\Professor\Desktop\zarinpal\zarinpal\obj\Debug\zarinpal.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\zarinpal\zarinpal\bin\Debug\zarinpal.dll.config
+C:\Users\Professor\Desktop\zarinpal\zarinpal\bin\Debug\zarinpal.dll
+C:\Users\Professor\Desktop\zarinpal\zarinpal\bin\Debug\zarinpal.pdb
+C:\Users\Professor\Desktop\zarinpal\zarinpal\obj\Debug\zarinpal.dll
+C:\Users\Professor\Desktop\zarinpal\zarinpal\obj\Debug\zarinpal.pdb

@@ -1,0 +1,12 @@
+C:\Users\ALONE BOY\Documents\Visual Studio 2017\Projects\zarinpal\zarinpal\bin\Release\zarinpal.dll.config
+C:\Users\ALONE BOY\Documents\Visual Studio 2017\Projects\zarinpal\zarinpal\bin\Release\zarinpal.dll
+C:\Users\ALONE BOY\Documents\Visual Studio 2017\Projects\zarinpal\zarinpal\bin\Release\zarinpal.pdb
+C:\Users\ALONE BOY\Documents\Visual Studio 2017\Projects\zarinpal\zarinpal\obj\Release\zarinpal.csprojResolveAssemblyReference.cache
+C:\Users\ALONE BOY\Documents\Visual Studio 2017\Projects\zarinpal\zarinpal\obj\Release\zarinpal.dll
+C:\Users\ALONE BOY\Documents\Visual Studio 2017\Projects\zarinpal\zarinpal\obj\Release\zarinpal.pdb
+C:\Users\Professor\Desktop\zarinpal\zarinpal\bin\Release\zarinpal.dll.config
+C:\Users\Professor\Desktop\zarinpal\zarinpal\bin\Release\zarinpal.dll
+C:\Users\Professor\Desktop\zarinpal\zarinpal\bin\Release\zarinpal.pdb
+C:\Users\Professor\Desktop\zarinpal\zarinpal\obj\Release\zarinpal.csprojResolveAssemblyReference.cache
+C:\Users\Professor\Desktop\zarinpal\zarinpal\obj\Release\zarinpal.dll
+C:\Users\Professor\Desktop\zarinpal\zarinpal\obj\Release\zarinpal.pdb
